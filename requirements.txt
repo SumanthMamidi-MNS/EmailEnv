@@ -1,0 +1,10 @@
+# ── AI Email Agent — runtime dependencies ─────────────────────────────────────
+# Kept intentionally minimal: NO torch, NO transformers, NO sentence-transformers
+# Those pulled in ~2 GB of CUDA binaries and caused 60-80 min Docker builds.
+# Classification is: Gemini 2.5 Flash (Tier 3) → Rule-Based fallback (Tier 1).
+
+streamlit>=1.35.0
+python-dotenv>=1.0.0
+google-generativeai>=0.8.0
+pydantic>=2.0.0
+typing-extensions>=4.9.0
