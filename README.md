@@ -1,3 +1,14 @@
+---
+title: AI Email Agent
+emoji: 📧
+colorFrom: blue
+colorTo: purple
+sdk: streamlit
+sdk_version: "1.37.0"
+python_version: "3.12"
+app_file: app.py
+pinned: false
+---
 # 🤖 AI Email Agent — Interactive Training & Simulation
 
 > A smart AI-powered platform that simulates how intelligent agents read, classify, and act on emails — with step-by-step execution and transparent scoring.
