@@ -3,10 +3,8 @@ title: AI Email Agent
 emoji: 📧
 colorFrom: blue
 colorTo: purple
-sdk: streamlit
-sdk_version: "1.37.0"
-python_version: "3.12"
-app_file: app.py
+sdk: docker
+app_port: 7860
 pinned: false
 ---
 # 🤖 AI Email Agent — Interactive Training & Simulation
