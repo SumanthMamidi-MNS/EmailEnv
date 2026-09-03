@@ -376,6 +376,6 @@ Distributed under the MIT License. See [`LICENSE`](./LICENSE) for details.
 
 Designed & Developed by [Sumanth Mamidi](https://github.com/SumanthMamidi-MNS)
 
-Copyright © 2026 Sumanth Mamidi
+<sub>Copyright © 2026 Sumanth Mamidi</sub>
 
 </div>
