@@ -1,0 +1,10 @@
+name: email_env
+version: 1.0.0
+description: "A Flight Simulator for Autonomous Email Agents"
+server:
+  app: envs.email_env.server.app:app
+  port: 8000
+models:
+  action: envs.email_env.models.EmailAction
+  observation: envs.email_env.models.EmailObservation
+  state: envs.email_env.models.EmailState
