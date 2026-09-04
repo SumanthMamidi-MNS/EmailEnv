@@ -5,12 +5,12 @@
 
 **A deterministic OpenEnv-compliant simulation environment, multi-tier evaluation harness, and regression-gated continuous learning engine for autonomous email agents.**
 
-[![OpenEnv](https://img.shields.io/badge/OpenEnv-Standard_Compliant-00E5FF?style=for-the-badge&logo=fastapi&logoColor=black&labelColor=020617)](https://github.com/meta-llama/openenv)
-[![Gemini 2.5 Flash](https://img.shields.io/badge/Gemini_2.5_Flash-AI_Engine-8B5CF6?style=for-the-badge&logo=google&logoColor=white&labelColor=020617)](https://ai.google.dev/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.40+-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=020617)](https://streamlit.io/)
-[![Python 3.12](https://img.shields.io/badge/Python-3.12-3776ab?style=for-the-badge&logo=python&logoColor=white&labelColor=020617)](https://www.python.org/)
-[![Tests Passing](https://img.shields.io/badge/Pytest-65_Passed_•_100%25-22c55e?style=for-the-badge&logo=pytest&logoColor=white&labelColor=020617)](./tests/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-7df9ff?style=for-the-badge&logo=opensourceinitiative&logoColor=black&labelColor=020617)](./LICENSE)
+[![OpenEnv](https://img.shields.io/badge/OpenEnv-Standard-06b6d4?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=020617)](https://github.com/meta-llama/openenv)
+[![Gemini 2.5](https://img.shields.io/badge/Gemini-2.5_Flash-a855f7?style=for-the-badge&logo=google&logoColor=white&labelColor=020617)](https://ai.google.dev/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-UI_Simulator-ec4899?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=020617)](https://streamlit.io/)
+[![Python](https://img.shields.io/badge/Python-3.12+-F7DF1E?style=for-the-badge&logo=python&logoColor=black&labelColor=020617)](https://www.python.org/)
+[![Pytest](https://img.shields.io/badge/Pytest-65_Passed-fb923c?style=for-the-badge&logo=pytest&logoColor=white&labelColor=020617)](./tests/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-7df9ff?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=020617)](./LICENSE)
 
 [![Try AI Email Agent](https://img.shields.io/badge/▶_Try_AI_Email_Agent-Live_App-22c55e?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=020617)](https://m-n-s-ai-email-agent.hf.space/)
 
