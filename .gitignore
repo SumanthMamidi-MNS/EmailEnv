@@ -52,3 +52,7 @@ openenv.db
 
 # Streamlit runtime
 .streamlit/secrets.toml
+
+# Personal Reference & Generated PDFs (Private)
+*.pdf
+docs/PITCH_DEFENSE_GUIDE.html
